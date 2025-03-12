@@ -1,0 +1,7 @@
+{
+  "name": "RecipeManager",
+  "description": "Allow to move recipes. Right click to craft the new added item first. 配方管理:可移动配方位置,右键可优先制作新添加的物品",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/starfi5h/DSP_Mod_Support/tree/main/DSP_RecipeManager",
+  "dependencies": [ "xiaoye97-BepInEx-5.4.17" ]
+}
